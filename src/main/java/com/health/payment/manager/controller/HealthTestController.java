@@ -11,6 +11,8 @@ public class HealthTestController {
 
     public void selectMsg(){
         dataBaseService.query();
+
+
         return;
     }
 }
